@@ -1,14 +1,14 @@
 {
-  "tasks": [
+  "users": [
     {
       "id": "1",
-      "title": "Study json-server",
-      "completed": false
+      "name": "Joe",
+      "isRegistered": false
     },
     {
       "id": "2",
-      "title": "Complete the client-side project",
-      "completed": true
+      "name": "Jhon",
+      "isRegistered": true
     }
   ]
 }
