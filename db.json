@@ -1,14 +1,18 @@
 {
-  "users": [
+  "books": [
     {
-      "id": "1",
-      "name": "Joe",
-      "isRegistered": false
+      "id": 1,
+      "title": "Sample Title",
+      "author": "Sample Author",
+      "year": 2023,
+      "status": "pending"
     },
     {
-      "id": "2",
-      "name": "Jhon",
-      "isRegistered": true
+      "id": 2,
+      "title": "Sample Title2",
+      "author": "Sample Author2",
+      "year": 2024,
+      "status": "read"
     }
   ]
 }
