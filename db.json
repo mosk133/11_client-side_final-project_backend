@@ -2,17 +2,31 @@
   "books": [
     {
       "id": 1,
-      "title": "Sample Title",
-      "author": "Sample Author",
-      "year": 2023,
-      "status": "pending"
+      "title": "The Forgotten Star",
+      "author": "Lena Harper",
+      "year": 2021,
+      "status": "read"
     },
     {
       "id": 2,
-      "title": "Sample Title2",
-      "author": "Sample Author2",
-      "year": 2024,
-      "status": "read"
+      "title": "Whispers of the Forest",
+      "author": "Kai Mendoza",
+      "year": 2022,
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "title": "Digital Horizon",
+      "author": "Elliot Tan",
+      "year": 2023,
+      "status": "in progress"
+    },
+    {
+      "id": 4,
+      "title": "Echoes of the Past",
+      "author": "Amira Bell",
+      "year": 2020,
+      "status": "pending"
     }
   ]
 }
